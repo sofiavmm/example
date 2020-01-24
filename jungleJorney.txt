@@ -6,3 +6,4 @@ List of elements we need:
 1. A tent
 2. some books
 3. water
+4. some food
